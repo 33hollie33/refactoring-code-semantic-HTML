@@ -1,1 +1,1 @@
-# week-1-refractoring-code-challenge
+# week-1-refactoring-code-challenge
