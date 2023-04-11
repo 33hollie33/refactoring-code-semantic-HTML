@@ -40,3 +40,5 @@ which is not what the client wanted. After altering the HTML, the CSS had to be 
 The main issues with the CSS code is that it was uncessarily long. There was some unique classes given to certain compnenets. Despite the code working effectively, a main issue
 for long CSS code is that the design could break. Another issue is that it makes it more difficult for other devlopers to navigate the code. By combining certain elements 
 it has made the code more conscise and easier to navigate. Please refer to the printscreen below. 
+
+![screenshot of website](/assets/images/screencapture-file-Users-holly-Desktop-Bootcamp-student-01-HTML-Git-CSS-02-Challenge-Develop-week-1-refactoring-code-challenge-index-html-2023-04-06-19_46_01.png)
